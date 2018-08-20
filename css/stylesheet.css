@@ -25,6 +25,10 @@ a:hover {
     color: #000000;
 }
 
+.content-text {
+    font-size: 15px;
+}
+
 /*Specials Styling */
 
 .special-header {
